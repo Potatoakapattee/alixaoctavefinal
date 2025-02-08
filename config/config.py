@@ -35,13 +35,9 @@ MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
 OWNER_ID = int(getenv("OWNER_ID", None))
 
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-
 BOT_ID = getenv("BOT_ID")
 
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/decentboyy/alixaoctavefinal")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Potatoakapattee/alixaoctavefinal")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
