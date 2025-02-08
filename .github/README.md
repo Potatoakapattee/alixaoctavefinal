@@ -252,7 +252,7 @@ bash start
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/Potatoakapattee/alixaoctavefinal"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <h1 align="center"><b>❤️ ᴏᴡɴᴇʀ ᴀɴᴅ ᴄʀᴇᴅɪᴛ ❤️</b></h1>
 <details>
