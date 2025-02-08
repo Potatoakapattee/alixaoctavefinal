@@ -52,16 +52,6 @@
         "value": "",
         "required": true
       },
-      "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
-        "value": "",
-        "required": true
-      },
-      "HEROKU_APP_NAME": {
-        "description": "Your heroku app name",
-        "value": "",
-        "required": true
-      },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
         "value": "https://github.com/decentboyy/alixaoctavefinal",
